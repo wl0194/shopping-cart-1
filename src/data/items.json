@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "iMac",
+    "price": 1449,
+    "imgUrl": "/imgs/iMac.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tesla Model S",
+    "price": 90000,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tumbler",
+    "price": 3.00,
+    "imgUrl": "/imgs/Tumbler.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Guitar",
+    "price": 1499,
+    "imgUrl": "/imgs/guitar.jpg"
+  }
+]
