@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Tablet",
-    "price": 1449,
+    "price": 1449.00,
     "imgUrl": "/imgs/tablet.jpg"
   },
   {
@@ -14,13 +14,13 @@
   {
     "id": 3,
     "name": "Desginer bag",
-    "price": 3.00,
+    "price": 2840.00,
     "imgUrl": "/imgs/bag.jpg"
   },
   {
     "id": 4,
     "name": "Guitar",
-    "price": 1499,
+    "price": 1499.99,
     "imgUrl": "/imgs/guitar.jpg"
   }
 ]
