@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "name": "iMac",
+    "name": "Tablet",
     "price": 1449,
-    "imgUrl": "/imgs/iMac.jpg"
+    "imgUrl": "/imgs/tablet.jpg"
   },
   {
     "id": 2,
-    "name": "Tesla Model S",
-    "price": 90000,
-    "imgUrl": "/imgs/computer.jpg"
+    "name": "Classic Car",
+    "price": 70000,
+    "imgUrl": "/imgs/car.jpg"
   },
   {
     "id": 3,
-    "name": "Tumbler",
+    "name": "Desginer bag",
     "price": 3.00,
-    "imgUrl": "/imgs/Tumbler.jpg"
+    "imgUrl": "/imgs/bag.jpg"
   },
   {
     "id": 4,
